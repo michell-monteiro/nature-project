@@ -1,0 +1,27 @@
+{
+  "name": "nature-project",
+  "version": "1.0.0",
+  "description": "Site teste baseado em outra referencia",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Douglas-ms/nature-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Douglas-ms/nature-project/issues"
+  },
+  "homepage": "https://github.com/Douglas-ms/nature-project#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
