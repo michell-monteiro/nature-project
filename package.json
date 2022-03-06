@@ -1,7 +1,7 @@
 {
   "name": "nature-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "Site teste baseado em outra referencia",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server.js",
